@@ -1,0 +1,11 @@
+AWS Account
+│
+├── IAM User
+│
+├── IAM Group
+│
+├── Managed Policy
+│
+├── Custom Policy
+│
+└── IAM Role
